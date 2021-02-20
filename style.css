@@ -1,0 +1,12 @@
+#result, #camera{
+    box-shadow: 5px 5px 5px black;
+    }
+#camera{
+    height: 50px;
+    width:50px;
+}
+#list{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
